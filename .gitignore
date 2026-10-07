@@ -1,0 +1,10 @@
+/build/
+**/target/
+__pycache__/
+*.class
+*.o
+*.out
+/pipe-soma-aluno
+/prod-cons-aluno
+.DS_Store
+*~
